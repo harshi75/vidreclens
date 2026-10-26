@@ -1,0 +1,532 @@
+{
+  "k": 12,
+  "alpha": 0.75,
+  "tvd_demand": {
+    "itemknn": 0.08578605712888135,
+    "tt_a0": 0.11333143107542112,
+    "adj": 0.08570249365630957
+  },
+  "tvd_catalog": {
+    "itemknn": 0.08594959107705256,
+    "tt_a0": 0.19456302305857004,
+    "adj": 0.16693408563945847
+  },
+  "clusters": [
+    {
+      "cluster": 0,
+      "items": 1739,
+      "catalog_pct": 10.094032969584397,
+      "demand_pct": 10.153980984214655,
+      "tail_item_pct": 81.82863714778608,
+      "mean_log_views": 13.650125107101273,
+      "mean_like_rate": 0.05472298977644929,
+      "users": 9964,
+      "expo_pct": {
+        "itemknn": 8.203589153053633,
+        "tt_a0": 9.881278724943696,
+        "adj": 9.3495297007001
+      },
+      "ratio": {
+        "itemknn": 0.8079185066238459,
+        "tt_a0": 0.9731433159373747,
+        "adj": 0.9207747892412687
+      },
+      "hit": {
+        "itemknn": 0.03843837816138097,
+        "tt_a0": 0.04014452027298274,
+        "adj": 0.0367322360497792
+      },
+      "titles": [
+        "the inventory of those mistakenly thought to be synthetic dubbing",
+        "# Simpsons # Demon Son Bart Maggie Divine Baby",
+        "\u3010 Famous Tour Agency \u3011 Space werewolf kill: The battle of the gods! I am Dr. Jekyll and Mr. Hyde! #amongus# SpaceWerewolf Kill",
+        "you don't have to build a fort to defeat the Dream Hunter? I did it! Sooer commentary # Lie flat development # Don't mess with the farmer # funny",
+        "Raft survival online 330: I skillfully use the gasoline barrel"
+      ],
+      "words": [
+        "doraemon",
+        "crayon",
+        "homer",
+        "sunset",
+        "squarepants",
+        "beardboonie",
+        "bears",
+        "bald"
+      ]
+    },
+    {
+      "cluster": 1,
+      "items": 1221,
+      "catalog_pct": 7.087299744601811,
+      "demand_pct": 5.887148549358497,
+      "tail_item_pct": 85.25798525798525,
+      "mean_log_views": 14.144836197911498,
+      "mean_like_rate": 0.03958209729654364,
+      "users": 5777,
+      "expo_pct": {
+        "itemknn": 6.723190901772156,
+        "tt_a0": 4.637772727735939,
+        "adj": 5.177266659193511
+      },
+      "ratio": {
+        "itemknn": 1.142011424614852,
+        "tt_a0": 0.7877791241128613,
+        "adj": 0.8794183832438983
+      },
+      "hit": {
+        "itemknn": 0.09780162714211528,
+        "tt_a0": 0.08395360913969188,
+        "adj": 0.09330102129132768
+      },
+      "titles": [
+        "three people A Bing response to drag more",
+        "only roadside stalls in Xinjiang? Guo baby proudly treats",
+        "23 years old female truck driver driving 9 meters long truck",
+        "with Korean brother to eat dumplings self-help",
+        "Xinjiang roast lamb egg 18 yuan/a bigger than the fist"
+      ],
+      "words": [
+        "northeast",
+        "chow",
+        "closing",
+        "noodles",
+        "buddha",
+        "zhou",
+        "countryside",
+        "singer"
+      ]
+    },
+    {
+      "cluster": 2,
+      "items": 1259,
+      "catalog_pct": 7.307870907824472,
+      "demand_pct": 7.168115439880157,
+      "tail_item_pct": 80.6989674344718,
+      "mean_log_views": 13.285102521535695,
+      "mean_like_rate": 0.07369510256347694,
+      "users": 7034,
+      "expo_pct": {
+        "itemknn": 8.980627541297679,
+        "tt_a0": 8.646271744336536,
+        "adj": 8.903178469157945
+      },
+      "ratio": {
+        "itemknn": 1.2528575490474838,
+        "tt_a0": 1.2062126812624396,
+        "adj": 1.2420528859823714
+      },
+      "hit": {
+        "itemknn": 0.043645152118282626,
+        "tt_a0": 0.04407165197611601,
+        "adj": 0.0419391526869491
+      },
+      "titles": [
+        "episode 3 | Hehuan vine terror like this! It all started when I became the Furnace Tripod in quick look can see # Two Yuan # comics # quick look comics",
+        "# Comicrecommendations # Comiccommentary Anna's rival",
+        "# Comic commentary",
+        "episode 9 | Twins outsmart and swap identities # Twos # Manga commentary # quick-read comics",
+        "July new: Furious Verme # anime recommendation # Gold Verme # anime commentary"
+      ],
+      "words": [
+        "apologies",
+        "ooc",
+        "apology",
+        "ruijin",
+        "comic",
+        "ann",
+        "comics",
+        "manga"
+      ]
+    },
+    {
+      "cluster": 3,
+      "items": 1369,
+      "catalog_pct": 7.9463663803111215,
+      "demand_pct": 14.72653344067503,
+      "tail_item_pct": 57.99853907962016,
+      "mean_log_views": 13.939733796754794,
+      "mean_like_rate": 0.04694200008194263,
+      "users": 14451,
+      "expo_pct": {
+        "itemknn": 11.38715364469219,
+        "tt_a0": 15.83201703879587,
+        "adj": 15.228831436170756
+      },
+      "ratio": {
+        "itemknn": 0.7732406061864231,
+        "tt_a0": 1.0750674693792817,
+        "adj": 1.034108366203031
+      },
+      "hit": {
+        "itemknn": 0.07030655317971074,
+        "tt_a0": 0.07625769842917444,
+        "adj": 0.08933637810532143
+      },
+      "titles": [
+        "is this your impression of Diao Cicada? # Nuke Blaster Dimly Cicada",
+        "you'll meet better that's what you said but I've never met better than you so far # Renwang Deal",
+        "adult mages don't have to worry about being rubbed off on the economy anymore. # Mr. Fruit Bowl Miss Fruit Bowl 3.0 # Kingglory # GloryFirefly Project",
+        "what skills do you like to bring # Diao Cicada Ghost # Henan dialect",
+        "what is the promise to let a teammate report? # Shinosuke keep promise # Kingglory highlights # Kingglory"
+      ],
+      "words": [
+        "luban",
+        "obsidian",
+        "bronze",
+        "canyon",
+        "gloryfirefly",
+        "kinghonor",
+        "dian",
+        "kui"
+      ]
+    },
+    {
+      "cluster": 4,
+      "items": 1294,
+      "catalog_pct": 7.511028558161133,
+      "demand_pct": 7.465682927574926,
+      "tail_item_pct": 80.60278207109737,
+      "mean_log_views": 13.544555435962325,
+      "mean_like_rate": 0.050748293728903535,
+      "users": 7326,
+      "expo_pct": {
+        "itemknn": 7.551895973667315,
+        "tt_a0": 8.992448715466377,
+        "adj": 8.27400666469647
+      },
+      "ratio": {
+        "itemknn": 1.0115479115479116,
+        "tt_a0": 1.2045045045045046,
+        "adj": 1.1082719082719084
+      },
+      "hit": {
+        "itemknn": 0.058831558831558835,
+        "tt_a0": 0.04695604695604696,
+        "adj": 0.04791154791154791
+      },
+      "titles": [
+        "turtle was conferred",
+        "[God mosquito evolutionary history] the nineteenth episode: the three masters of the mountain mountain final battle golden eagle",
+        "Titan great ape blue sky cow python small dance are coming to see leaves invincible # sand sculpture animation # sand sculpture repair fairy animation # Dou Luo mainland Tang three small dance",
+        "\u3010\u7edd\u4e16\u8001\u7956\u3011\u8001\u7956\u51fa\u624b\uff0c\u65a9\u706d\u7384\u9e1f\u5723\u5b97\u5929\u547d\u5883\u957f\u8001 #\u52a8\u753b #\u6668\u66e6\u52a8\u6f2b\u8ba1\u5212 #\u6c99\u96d5",
+        "Invincible lonely 28 Jun home first sequence return"
+      ],
+      "words": [
+        "womb",
+        "ancestor",
+        "xiuxian",
+        "sandsculpture",
+        "sculpture",
+        "douruo",
+        "reddy",
+        "sand"
+      ]
+    },
+    {
+      "cluster": 5,
+      "items": 1381,
+      "catalog_pct": 8.01602043185512,
+      "demand_pct": 5.002598620183636,
+      "tail_item_pct": 88.9934829833454,
+      "mean_log_views": 14.360375968441737,
+      "mean_like_rate": 0.04010292677107312,
+      "users": 4909,
+      "expo_pct": {
+        "itemknn": 6.999256081280763,
+        "tt_a0": 4.296079650256295,
+        "adj": 4.803982512814764
+      },
+      "ratio": {
+        "itemknn": 1.3991240578529232,
+        "tt_a0": 0.8587696068445712,
+        "adj": 0.9602974129150539
+      },
+      "hit": {
+        "itemknn": 0.028315339172947648,
+        "tt_a0": 0.026481971888368303,
+        "adj": 0.026889386840497045
+      },
+      "titles": [
+        "you are called ah with the # swagging # kiwifruit good drama must see",
+        "# jade face peach blossom always meet this maid want to rise",
+        "the ex-girlfriend in order to save her boyfriend deliberately gas away girlfriend but not entertain to see # I am chasing good drama",
+        "female master bestie has a variety of identities manufactured from the false shark false s estimate has already changed identity to live again",
+        "sample this still can't take you? ! # Star Han rotten can moon rising sea # Zhao Lusi # Wu Lei"
+      ],
+      "words": [
+        "ruyi",
+        "kiwifruit",
+        "brilliant",
+        "officer",
+        "idol",
+        "deer",
+        "chasing",
+        "station"
+      ]
+    },
+    {
+      "cluster": 6,
+      "items": 1873,
+      "catalog_pct": 10.871836545159043,
+      "demand_pct": 10.48823487450193,
+      "tail_item_pct": 85.31767218366258,
+      "mean_log_views": 14.23448712568479,
+      "mean_like_rate": 0.042548863378850305,
+      "users": 10292,
+      "expo_pct": {
+        "itemknn": 8.766113992805389,
+        "tt_a0": 5.940241926443763,
+        "adj": 6.834167269614487
+      },
+      "ratio": {
+        "itemknn": 0.8358045083560046,
+        "tt_a0": 0.5663719393703848,
+        "adj": 0.6516031869413137
+      },
+      "hit": {
+        "itemknn": 0.06665371162067625,
+        "tt_a0": 0.056451612903225805,
+        "adj": 0.06150408083948698
+      },
+      "titles": [
+        "daughter-in-law is not home! 115 bought 6 sheep balls",
+        "1 catfish",
+        "is the boss crazy? Guests order two dishes",
+        "take stock of the whole network of those married warm men",
+        "in the car to entertain guests against Huspicy soup hot pot"
+      ],
+      "words": [
+        "beef",
+        "foodie",
+        "vlog",
+        "russian",
+        "gourmet",
+        "aid",
+        "accept",
+        "selling"
+      ]
+    },
+    {
+      "cluster": 7,
+      "items": 1357,
+      "catalog_pct": 7.876712328767123,
+      "demand_pct": 7.6694962753110705,
+      "tail_item_pct": 78.18717759764185,
+      "mean_log_views": 13.654325508103424,
+      "mean_like_rate": 0.0450816893255281,
+      "users": 7526,
+      "expo_pct": {
+        "itemknn": 8.489743093275179,
+        "tt_a0": 9.177307421863059,
+        "adj": 8.797093621661283
+      },
+      "ratio": {
+        "itemknn": 1.1069492426255647,
+        "tt_a0": 1.1965984586765879,
+        "adj": 1.1470236513420142
+      },
+      "hit": {
+        "itemknn": 0.06417751793781558,
+        "tt_a0": 0.06005846399149615,
+        "adj": 0.059526973159713
+      },
+      "titles": [
+        "Mini world: The new creature Sandman bodyguard is really powerful",
+        "# subway escape #PUBG international service # Game where star plan Famas three map chaos kill!",
+        "# subway escape a small ruins of the city to set up a stall for the boy to eat baked sweet potato",
+        "everyone must be safe when going to the island! # Peacelitist # funny # GameFanstar Project",
+        "please don't look down on 2 fingers # Killshow # Subway Escape Killshow # Subway escape"
+      ],
+      "words": [
+        "minectaft",
+        "peking",
+        "myworld",
+        "minecraft",
+        "miniworld",
+        "peaceelite",
+        "peacelitist",
+        "miniworlds"
+      ]
+    },
+    {
+      "cluster": 8,
+      "items": 1056,
+      "catalog_pct": 6.129556535871837,
+      "demand_pct": 5.964597621498232,
+      "tail_item_pct": 75.18939393939394,
+      "mean_log_views": 13.471141881488313,
+      "mean_like_rate": 0.07115993969854714,
+      "users": 5853,
+      "expo_pct": {
+        "itemknn": 6.0580460414352535,
+        "tt_a0": 8.996117355725627,
+        "adj": 8.129910627847018
+      },
+      "ratio": {
+        "itemknn": 1.0156671792243293,
+        "tt_a0": 1.5082521783700666,
+        "adj": 1.3630275072612335
+      },
+      "hit": {
+        "itemknn": 0.04373825388689561,
+        "tt_a0": 0.045959337092089526,
+        "adj": 0.04459251665812404
+      },
+      "titles": [
+        "# Hiroto Naruto New Age Sasuke is blind",
+        "# OnePiece # Sauron is a mortal and shoulder-to-shoulder god",
+        "Naruto is a pity # Didara # coming also # Uchibo Kul",
+        "Sanji: Robin Sauce Come help me",
+        "# Spring Day attack # animation commentary # Spell spell back to fight dead"
+      ],
+      "words": [
+        "conan",
+        "onepiece",
+        "sasuke",
+        "kakashi",
+        "luffy",
+        "detective",
+        "communication",
+        "naruto"
+      ]
+    },
+    {
+      "cluster": 9,
+      "items": 1492,
+      "catalog_pct": 8.660320408637102,
+      "demand_pct": 10.560588612948262,
+      "tail_item_pct": 70.91152815013405,
+      "mean_log_views": 13.646937744095188,
+      "mean_like_rate": 0.049518463623812584,
+      "users": 10363,
+      "expo_pct": {
+        "itemknn": 11.487837438473845,
+        "tt_a0": 13.243995149242323,
+        "adj": 12.792242863985162
+      },
+      "ratio": {
+        "itemknn": 1.0878027598185853,
+        "tt_a0": 1.2540963041590274,
+        "adj": 1.2113191160860755
+      },
+      "hit": {
+        "itemknn": 0.07246936215381647,
+        "tt_a0": 0.06503908134710026,
+        "adj": 0.06378461835375857
+      },
+      "titles": [
+        "sprint national service first on the road",
+        "isn't it the armor of the top 50? I'm the national service # King glory hot # Glory firefly plan # Mingzhu monkey",
+        "goodbye bounty people",
+        "# Xiti material # Peace Elite material # Body player you feel that body!",
+        "S7 debut! 20 Fee Seeker! 1 Star Damage 4000!"
+      ],
+      "words": [
+        "clash",
+        "transformers",
+        "gamestar",
+        "escapeteen",
+        "xumi",
+        "actual",
+        "teen",
+        "linkage"
+      ]
+    },
+    {
+      "cluster": 10,
+      "items": 1602,
+      "catalog_pct": 9.298815881123753,
+      "demand_pct": 9.401909731068288,
+      "tail_item_pct": 81.39825218476904,
+      "mean_log_views": 13.95958434364271,
+      "mean_like_rate": 0.04853760773575629,
+      "users": 9226,
+      "expo_pct": {
+        "itemknn": 7.835196527020555,
+        "tt_a0": 6.975715639617238,
+        "adj": 7.744601493951839
+      },
+      "ratio": {
+        "itemknn": 0.8333622371558639,
+        "tt_a0": 0.7419466724474312,
+        "adj": 0.8237264253197485
+      },
+      "hit": {
+        "itemknn": 0.06709299804899198,
+        "tt_a0": 0.060914805983091264,
+        "adj": 0.06709299804899198
+      },
+      "titles": [
+        "Thailand real case adaptation",
+        "when painting watercolor",
+        "[Disaster Lotus Song x Disaster Lotus] Red ginger",
+        "set up a stall selling starchy sausages",
+        "this year"
+      ],
+      "words": [
+        "picket",
+        "marvel",
+        "frames",
+        "indian",
+        "ship",
+        "spider",
+        "pork",
+        "motorcycle"
+      ]
+    },
+    {
+      "cluster": 11,
+      "items": 1585,
+      "catalog_pct": 9.200139308103088,
+      "demand_pct": 5.511112922785314,
+      "tail_item_pct": 89.7160883280757,
+      "mean_log_views": 14.55453387530692,
+      "mean_like_rate": 0.03128725041374876,
+      "users": 5408,
+      "expo_pct": {
+        "itemknn": 7.517349611226039,
+        "tt_a0": 3.3807539055732763,
+        "adj": 3.965188680206667
+      },
+      "ratio": {
+        "itemknn": 1.3640347633136094,
+        "tt_a0": 0.6134430473372782,
+        "adj": 0.7194896449704141
+      },
+      "hit": {
+        "itemknn": 0.020525147928994084,
+        "tt_a0": 0.01849112426035503,
+        "adj": 0.01886094674556213
+      },
+      "titles": [
+        "the founding general was framed by the villain became a Lao gai crime",
+        "Zhou Weiguo unexpectedly promoted to company commander # fast hands film hot plan # Snow Leopard",
+        "the Secret room homicide mystery many",
+        "the shopkeeper smelled a smell of urine on the man",
+        "Liu Huaqiang in the Mafia heavy love heavy justice"
+      ],
+      "words": [
+        "hong",
+        "jay",
+        "chou",
+        "lake",
+        "forces",
+        "kong",
+        "chow",
+        "movies"
+      ]
+    }
+  ],
+  "findings": [
+    "Without adjustment the two-tower puts 1.51x the demand share into C8 and 0.57x into C6; with alpha 0.75 these become 1.36x and 0.65x.",
+    "The distance of exposure from demand falls from 0.113 to 0.086, and its distance from catalogue share falls from 0.195 to 0.167 (item-kNN: 0.086 and 0.086).",
+    "hit@10 changes most favourably in C3 (0.076 to 0.089, 14451 users) and most unfavourably in C0 (0.040 to 0.037, 9964 users).",
+    "item-kNN's largest lead over the adjusted two-tower is in C4 (0.059 vs 0.048, 7326 users)."
+  ],
+  "llm_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "llm": {
+    "names": "C0: doraemon cartoon characters\nC1: northeastern cuisine\nC2: comic recommendations\nC3: Diao Cicada character\nC4: turtle mythology\nC5: idol romance\nC6: beef cooking\nC7: mini-worlds Minecraft\nC8: anime detectives\nC9: teen action games\nC10: Thailand adaptations\nC11: Hong Kong cinema",
+    "summary": "The two-tower initially allocates 1.51 times more demand to cluster C8 compared to C6, but this shifts to 1.36x after adjusting for an alpha value of 0.75. Exposure to demand becomes less distant from both C8 and C6 by reducing the distance from 0.113 to 0.086 and 0.195 to 0.167 respectively, measured using item-kNN. In terms of user impact, the hit rate increases slightly in C3 from 0.076 to 0.089, benefiting 14,451 users, while decreasing in C0 from 0.040 to 0.037, affecting 9,964 users negatively. Additionally, item-kNN outperforms the adjusted two-tower in C4, where it has a larger advantage of 0.059 versus 0.048, impacting 7,326 users positively.",
+    "unsupported_numbers": []
+  }
+}

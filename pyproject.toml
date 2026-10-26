@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vidreclens"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["polars>=1.0", "numpy", "matplotlib", "pyarrow"]
+
+[project.optional-dependencies]
+dev = ["pytest", "httpx"]
+serve = ["fastapi", "uvicorn"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

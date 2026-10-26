@@ -1,0 +1,13 @@
+{
+  "raw_rows": 719405,
+  "users": 98129,
+  "items": 17228,
+  "interactions": 705174,
+  "sparsity": 0.9995828770789514,
+  "seq_len_p50": 6.0,
+  "seq_len_p90": 11.0,
+  "seq_len_max": 203,
+  "item_gini": 0.489552121098759,
+  "top20pct_items_share": 0.5287276615416904,
+  "span_days": 921.3602199074074
+}
