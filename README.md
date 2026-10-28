@@ -36,7 +36,7 @@ Content and IDs are complementary (+17 to 19% over either alone). Adding VideoMA
 - Paired comparisons with 95% intervals over the same users.
 - Simulated A/B test: users split at random into two arms, 1,000 simulations per arm size. A true +5.3% lift is detected only 53% of the time with all users split 49,064 per arm. About 96,600 users per arm would be needed for 80% power. The paired comparison on the same users has about 8 times more statistical power than the split test.
 - Segment slices: by history length and by how many past interactions the target video had. The popularity adjustment roughly doubles hit rate on rarely seen videos (1-4 past interactions: 0.0090 to 0.0193) at the cost of the most popular ones (100+: 0.1360 to 0.1075). Item-kNN is significantly better on rarely seen videos (0.0332).
-- Not done: counterfactual estimators (IPS, doubly robust). MicroLens does not log the probability with which each video was shown.
+
 
 ## Content clusters
 
@@ -73,7 +73,7 @@ curl -X POST localhost:8000/recommend -H 'Content-Type: application/json' \
 
 `history` is a list of MicroLens video ids, oldest first. Unknown ids are reported back, an empty history falls back to the most popular videos, and `alpha` (0 to 2) sets the popularity penalty. Other endpoints: `GET /health`, `GET /items/{id}`.
 
-Without Docker: `pip install -e ".[serve]"` then `VIDRECLENS_BUNDLE=bundle uvicorn --factory vidreclens.serve.app:create_app`.
+
 
 ## Limitations
 
@@ -94,6 +94,3 @@ Without Docker: `pip install -e ".[serve]"` then `VIDRECLENS_BUNDLE=bundle uvico
 
 `reports/` holds the outputs of the final end-to-end run (bias sweep, A/B simulation, clusters, plots). The baseline and modality-ablation tables above come from earlier runs of the same code (`scripts/day3_baselines.py` and `scripts/day4_twotower.py`). To regenerate their JSON files, set `RUN_BASELINES = True` and `RUN_TWOTOWER = True` in the notebook (about an extra hour).
 
-## Status
-
-The API was tested with uvicorn on macOS (health and recommend endpoints). The Dockerfile has not been built or run yet.
